@@ -1,0 +1,14 @@
+{
+  "name": "pixelart",
+  "version": "0.0.1",
+  "description": "video to character animation magic",
+  "repository": "https://github.com/micooz/pixelart",
+  "author": "Micooz",
+  "license": "MIT",
+  "devDependencies": {
+    "sharp": "^0.18.4"
+  },
+  "engines": {
+    "node": ">= 8"
+  }
+}
